@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT atahska_3626.wsgi:application
